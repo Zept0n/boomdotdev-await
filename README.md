@@ -31,6 +31,7 @@ The loading bar must hide when the requests are completed
 The first request URL must be /planets instead of /planets?page=1
 
 Gotchas
+
 Use the already defined progressbar on the page
 
 Move the rendering of the boxes inside of the _create method
